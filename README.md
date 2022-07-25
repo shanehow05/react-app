@@ -39,6 +39,14 @@ Component Hierarchy
 
 
 
+App Layout 
+
+
+
+![Screen Shot 2022-07-25 at 1 56 53 PM](https://user-images.githubusercontent.com/105765535/180845092-8d27acb1-23a5-4aa3-8f3c-18ff830f7dcb.png)
+![Screen Shot 2022-07-25 at 1 57 09 PM](https://user-images.githubusercontent.com/105765535/180845112-627165dd-3a8a-4620-8a9c-db36cd740102.png)
+
+
 
 Minimum Need-To-Have Features 
 For this project, the minimum need to have features consisted of 
