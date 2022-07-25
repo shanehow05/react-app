@@ -30,6 +30,8 @@ For this project, the minimum need to have features consisted of
 •	Use Axios to consume data from an third party API, and render that data in your components. 
 •	Must us React Hooks
 •	Must use at least two different endpoint
+
+
 Post MVP 
 In the future, I’d like to implement a copy button that will allow the user to copy the desired password. Along with this, I would display an alert message notifying that the password has been copied. A password manager would also be a good addition to this website. However, that would require some user authentication to log in which would add more value and security to the overall app. 
 
