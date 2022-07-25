@@ -20,6 +20,26 @@ The first endpoint or (password option) is a 12-letter long password of random l
 The second endpoint or (password option) is a 10-character long password consisting of uppercase & lowercase letters, numbers and special characters all random. This option is good if you have trouble thinking of a password that meets the average password syntax. This is also a good option for passwords that need to be renewed after a certain amount of time. For example, most jobs require that you change your password after a certain number of days or months, and this can become a headache if you struggle creating meaningful passwords that meet the average syntax. Tessera helps to resolve this issue. However, be mindful that some passwords created in this section may contain special characters that are not allowed in passwords. For best practice, always use the special characters at the top of the keyboard, same line as the numbers 0-9. These special characters are always accepted in passwords, try to stay away from using the other ones. We suggest that if your password does have alternate special characters, copy and paste password and replace alternate with a special character from the suggested row above. 
 
 
+Component Hierarchy 
+
+
+
+
+![Screen Shot 2022-07-25 at 2 04 11 PM](https://user-images.githubusercontent.com/105765535/180844647-aa6d6ce4-580d-4164-8843-bea2160449b1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Minimum Need-To-Have Features 
 For this project, the minimum need to have features consisted of 
 •	Be a working, interactive React app, built using create react app.
