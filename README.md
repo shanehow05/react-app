@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+Tessera 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview
 
-## Available Scripts
+Tessera pronounced (teh-sr-uh) originates from the Greek language and it was created to ensure that users can create secure passwords for work or personal devices. It is important to have long randomized passwords for your devices because most fraud and ransomware attacks happen due to outdated passwords, extended across multiple applications. In addition, it can be tedious to constantly change and think of new passwords that meet the requirements of most sites. We aim to take that burden off your shoulders by providing 2 types of random passwords that generate at the click of a button. 
 
-In the project directory, you can run:
+Average Password Requirements 
+•	8 or 9 characters long 
+•	Includes uppercase and lowercase letters 
+•	Includes one number 
+•	Includes one special character 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Project Description 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+For this project, the Passwordinator API (https://github.com/fawazsullia/password-generator/) was used to call the random combination of letters and numbers. Two endpoints were used to display the capability of this API. 
 
-### `npm test`
+The first endpoint or (password option) is a 12-letter long password of random letters, including capital and lowercase. This password option would be good to add to a meaningful word or number(s) you have in mind, since most password syntaxes ask that you include at least one number and special character. To add, the longer the password, the more secure it is so this is an easy way to enhance security of your passwords. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The second endpoint or (password option) is a 10-character long password consisting of uppercase & lowercase letters, numbers and special characters all random. This option is good if you have trouble thinking of a password that meets the average password syntax. This is also a good option for passwords that need to be renewed after a certain amount of time. For example, most jobs require that you change your password after a certain number of days or months, and this can become a headache if you struggle creating meaningful passwords that meet the average syntax. Tessera helps to resolve this issue. However, be mindful that some passwords created in this section may contain special characters that are not allowed in passwords. For best practice, always use the special characters at the top of the keyboard, same line as the numbers 0-9. These special characters are always accepted in passwords, try to stay away from using the other ones. We suggest that if your password does have alternate special characters, copy and paste password and replace alternate with a special character from the suggested row above. 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Minimum Need-To-Have Features 
+For this project, the minimum need to have features consisted of 
+•	Be a working, interactive React app, built using create react app.
+•	Utilize React Router, installed via NPM.
+•	Have at least 6 separate, rendered components (not including App and Services).
+•	Implement an organized and understandable React file structure.
+•	Utilize functional components appropriately.
+•	Use Axios to consume data from an third party API, and render that data in your components. 
+•	Must us React Hooks
+•	Must use at least two different endpoint
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Post MVP 
+In the future, I’d like to implement a copy button that will allow the user to copy the desired password. Along with this, I would display an alert message notifying that the password has been copied. A password manager would also be a good addition to this website. However, that would require some user authentication to log in which would add more value and security to the overall app. 
 
-### `npm run eject`
+Steps to Install and Run Tessera
+Step 1:
+Open GitHub and navigate to the main page of the repository.
+Step 2:
+Under the repository name, click on Clone or download.
+Step 3:
+Select the Clone with HTTPs section and copy the clone URL for the repository. For the empty repository, you can copy the repository page URL from your browser.
+Step 4:
+Open Terminal 
+clone can be done by using the command below 
+git clone (repository link)
+You can refer this link
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Credits 
+Password Hacking Stats - https://webtribunal.net/blog/password-stats/#gref
+How to add video background - https://www.youtube.com/watch?v=LSRNmhLS76o
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
