@@ -39,12 +39,11 @@ Component Hierarchy
 
 
 
-App Layout 
+App Layout & Outlook
 
+![Screen Shot 2022-07-25 at 2 14 06 PM](https://user-images.githubusercontent.com/105765535/180846597-fa029cec-df9c-4eec-8d45-6df9b625c22a.png)
+![Screen Shot 2022-07-25 at 2 14 13 PM](https://user-images.githubusercontent.com/105765535/180846653-c93414b7-160a-44ee-9037-58e6f290ed7c.png)
 
-
-![Screen Shot 2022-07-25 at 1 56 53 PM](https://user-images.githubusercontent.com/105765535/180845092-8d27acb1-23a5-4aa3-8f3c-18ff830f7dcb.png)
-![Screen Shot 2022-07-25 at 1 57 09 PM](https://user-images.githubusercontent.com/105765535/180845112-627165dd-3a8a-4620-8a9c-db36cd740102.png)
 
 
 
