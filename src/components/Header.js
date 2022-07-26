@@ -9,7 +9,7 @@ function Header () {
             <h1 className="heading-one"> Tessera</h1>
                 <NavLink className='navbarlink' to={'/'}>Homepage</NavLink>
                 <NavLink className='navbarlink' to={'/AboutUs'}>AboutUs</NavLink>
-                <NavLink className='navbarlink' to={'/CreatePassword'} activeStyle={{color:"black"}}>CreatePassword</NavLink>
+                <NavLink className='navbarlink' to={'/CreatePassword'}>CreatePassword</NavLink>
                 
 
 

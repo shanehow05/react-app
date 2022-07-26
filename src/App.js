@@ -10,11 +10,7 @@ function App() {
       <Header />
       <main>
         <Container />
-        {/* <Main /> */}
-        
-
-
-
+       
       </main>
       
 
